@@ -1,7 +1,7 @@
-﻿if(1241 > 22)
+﻿if(22 < 13)
 {
     Console.WriteLine("..");
 } else
 {
-    Console.WriteLine("Ok..");
+    Console.WriteLine("Ok)))");
 }

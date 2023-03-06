@@ -1,7 +1,4 @@
-﻿if(1241 > 22)
+﻿if (4 < 10)
 {
-    Console.WriteLine("..");
-} else
-{
-    Console.WriteLine("Ok..");
+    Console.WriteLine("nice!");
 }
